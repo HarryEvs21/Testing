@@ -51,7 +51,7 @@ void sort::test_case1() // Sort Ascending
                 sortedList.append(item);
             }
 
-    QStringList list2 = {"sheep","lion","tiger"};
+    QStringList list2 = {"cheetah","lion","tiger"};
     QVERIFY(true);
     QCOMPARE(sortedList,list2);
 }

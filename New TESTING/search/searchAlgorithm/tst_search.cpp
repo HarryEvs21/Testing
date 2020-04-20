@@ -65,7 +65,7 @@ void search::test_case1() // binary search
         //break;
 
 
-    int testIndex = 2;
+    int testIndex = 3;
     QVERIFY(true);
     QCOMPARE(m,testIndex);
 }
